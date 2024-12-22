@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.iglesiadedios7.twa",
+        "sha256_cert_fingerprints": ["9A:68:37:A3:59:74:75:67:E7:67:F9:CD:7B:AC:B1:BD:CA:2F:C6:57:3E:EF:13:DF:86:AD:36:44:49:B7:48:0C"]
+      }
+    }]
