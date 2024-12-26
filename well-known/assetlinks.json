@@ -1,8 +1,10 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "app.iglesiadedios7.twa",
-        "sha256_cert_fingerprints": ["9A:68:37:A3:59:74:75:67:E7:67:F9:CD:7B:AC:B1:BD:CA:2F:C6:57:3E:EF:13:DF:86:AD:36:44:49:B7:48:0C"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.zmvmey",
+      "sha256_cert_fingerprints": ["5B:C1:77:17:EF:6A:95:C7:A1:16:3E:99:D7:BA:17:DC:B8:A6:84:36:AD:50:41:0E:BE:A5:82:00:75:FA:E4:99"]
+    }
+  }
+]
